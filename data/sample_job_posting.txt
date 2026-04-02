@@ -1,0 +1,69 @@
+Senior Python Developer – Backend & APIs
+
+Company: Acme Technology Inc.
+Location: San Francisco, CA (Hybrid – 2 days/week in office)
+Job Type: Full-Time
+Salary: $130,000 – $160,000 per year
+
+About the Role
+--------------
+We are looking for an experienced Senior Python Developer to join our growing backend
+engineering team. You will design, build, and maintain high-performance REST APIs and
+microservices that power our B2B SaaS platform used by 10,000+ companies worldwide.
+
+Responsibilities
+----------------
+- Design and develop scalable RESTful APIs using Python (Django REST Framework / FastAPI)
+- Lead architecture decisions for new backend features and services
+- Collaborate with frontend engineers, product managers, and DevOps teams
+- Write clean, well-tested code with at least 90% test coverage
+- Perform code reviews and mentor junior developers
+- Optimise database queries and improve application performance
+- Implement CI/CD pipelines using GitHub Actions
+- Ensure security best practices are followed (OAuth2, HTTPS, rate limiting)
+- Contribute to technical documentation and architecture design documents
+
+Requirements
+------------
+- 5+ years of professional Python development experience
+- Strong knowledge of Django or FastAPI
+- Experience with PostgreSQL or MySQL at scale
+- Proficiency with Docker and Kubernetes
+- Solid understanding of REST API design principles
+- Experience with AWS (EC2, RDS, S3, Lambda)
+- Familiarity with Redis caching
+- Experience with Git and GitHub workflows
+- Understanding of microservices architecture
+- Strong English communication skills
+
+Nice to Have
+------------
+- Experience with GraphQL
+- Knowledge of Kafka or RabbitMQ message queues
+- Contributions to open-source projects
+- Experience with React or other frontend frameworks
+- AWS certifications
+
+Benefits
+--------
+- Competitive salary ($130k-$160k DOE)
+- Remote-friendly (Hybrid)
+- Health, dental, and vision insurance
+- 401(k) with 5% company match
+- $2,000 annual learning budget
+- Unlimited PTO
+- Parental leave (16 weeks)
+- Latest MacBook Pro provided
+- Equity/stock options
+
+About Acme Technology Inc.
+--------------------------
+Acme Technology is a fast-growing SaaS company headquartered in San Francisco.
+We build business automation software used by Fortune 500 companies. Our engineering
+team values clean code, continuous learning, and work-life balance. We have been
+recognised as one of the Best Places to Work for 3 consecutive years.
+
+How to Apply
+-----------
+Apply through our website or send your resume to careers@acme-tech.com.
+Please include a cover letter explaining your most impactful technical achievement.

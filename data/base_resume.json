@@ -1,0 +1,78 @@
+{
+  "name": "Your Full Name",
+  "current_title": "Software Developer",
+  "years_experience": 3,
+  "contact": {
+    "email": "your.email@example.com",
+    "phone": "+1 (555) 000-0000",
+    "linkedin": "https://linkedin.com/in/yourprofile",
+    "github": "https://github.com/yourusername",
+    "location": "City, State"
+  },
+  "summary": "Passionate software developer with 3 years of experience building scalable web applications. Skilled in Python, JavaScript, and cloud technologies. Looking for opportunities to create impactful products.",
+  "skills": [
+    "Python", "JavaScript", "TypeScript", "React", "Node.js",
+    "Django", "FastAPI", "Flask",
+    "PostgreSQL", "MySQL", "MongoDB", "Redis",
+    "AWS", "Docker", "Kubernetes", "GitHub Actions",
+    "Git", "Linux", "REST APIs", "GraphQL",
+    "SQL", "Pandas", "NumPy"
+  ],
+  "experience": [
+    {
+      "title": "Software Developer",
+      "company": "Tech Company ABC",
+      "location": "San Francisco, CA",
+      "dates": "Jan 2022 – Present",
+      "achievements": [
+        "Developed and maintained 5 RESTful APIs serving 50,000+ daily requests using Python and Django",
+        "Reduced API response time by 40% by implementing Redis caching and database query optimisation",
+        "Led migration of 3 legacy services to microservices architecture, improving deployment frequency by 60%",
+        "Collaborated with cross-functional teams to deliver 12 features on schedule using Agile/Scrum methodology",
+        "Mentored 2 junior developers through code reviews and pair programming sessions"
+      ]
+    },
+    {
+      "title": "Junior Python Developer",
+      "company": "Startup XYZ",
+      "location": "Remote",
+      "dates": "Jun 2021 – Dec 2021",
+      "achievements": [
+        "Built a data pipeline processing 1M+ records daily using Python and Apache Kafka",
+        "Developed automated test suite achieving 85% code coverage with pytest",
+        "Contributed to open-source library with 500+ GitHub stars",
+        "Implemented CI/CD pipeline using GitHub Actions, reducing deployment time by 50%"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "State University",
+      "year": "2021",
+      "gpa": "3.8/4.0"
+    }
+  ],
+  "certifications": [
+    "AWS Certified Developer – Associate (2023)",
+    "Google Professional Cloud Developer (2022)"
+  ],
+  "projects": [
+    {
+      "name": "Job Agent",
+      "description": "AI-powered job application automation tool using Python, GPT-4, and BeautifulSoup. Scrapes job listings, analyses JDs, and generates tailored resumes.",
+      "url": "https://github.com/yourusername/job-agent",
+      "technologies": ["Python", "OpenAI", "BeautifulSoup", "SQLAlchemy", "Typer"]
+    },
+    {
+      "name": "E-Commerce API",
+      "description": "Scalable REST API for an e-commerce platform handling 10k+ concurrent users, built with FastAPI and PostgreSQL.",
+      "url": "https://github.com/yourusername/ecommerce-api",
+      "technologies": ["FastAPI", "PostgreSQL", "Redis", "Docker", "AWS"]
+    }
+  ],
+  "languages": [
+    {"language": "English", "proficiency": "Native"},
+    {"language": "Spanish", "proficiency": "Conversational"}
+  ]
+}
