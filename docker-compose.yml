@@ -1,0 +1,24 @@
+version: "3.9"
+
+services:
+  job-agent:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: job-agent
+    volumes:
+      # Mount local data so the database and resumes persist
+      - ./data:/app/data
+      - ./output:/app/output
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OPENAI_MODEL=${OPENAI_MODEL:-gpt-4}
+      - DATABASE_URL=${DATABASE_URL:-sqlite:///./data/jobs.db}
+      - SCRAPER_DELAY=${SCRAPER_DELAY:-2.0}
+      - LOG_LEVEL=${LOG_LEVEL:-INFO}
+    env_file:
+      - .env
+    stdin_open: true
+    tty: true
+    # Override for interactive use:
+    #   docker compose run job-agent search --keywords "Python developer"
